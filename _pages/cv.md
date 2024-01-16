@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Brief CV
 ======
 * 2023-2024 ATER at Université de Bourgogne, Dijon.
 * 2020-2023 Université de Bourgogne, Dijon, PhD in Mathematics. 
@@ -17,17 +16,15 @@ Brief CV
 * 2013-2019 Universidad Técnica Federico Santa María, Valparaíso, Engineer degree in Mathematical Engineering.
 * 2013-2019 Universidad Técnica Federico Santa María, Valparaíso, BSc in Mathematics.
 
-Work experience
+Theses in Mathematics
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* PhD Thesis: Chow-Künneth decomposition
+  * Advisors: [Frédéric Déglise](http://deglise.perso.math.cnrs.fr/) and [Jan Nagel](http://nagel49.perso.math.cnrs.fr/)
+  * Thesis defense: december 2023.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Master 2 Thesis: Introduction to motives
+  * Advisor: [Jan Nagel](http://nagel49.perso.math.cnrs.fr/)
+  * Thesis defense: june 2020.
 
 Publications
 ======
@@ -40,13 +37,4 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
 * Currently signed in to 43 different slack teams
