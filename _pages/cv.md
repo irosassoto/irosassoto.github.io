@@ -7,9 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-======
 * 2023-2024 ATER at Université de Bourgogne, Dijon.
 * 2020-2023 Université de Bourgogne, Dijon, PhD in Mathematics. 
 * 2019-2020 Université Grenoble Alpes - Institut Fourier, Grenoble, Master 2 Research in Mathematics.
