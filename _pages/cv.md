@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Brief CV
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2023-2024 ATER at Université de Bourgogne, Dijon.
+* 2020-2023 Université de Bourgogne, Dijon, PhD in Mathematics. 
+* 2019-2020 Université Grenoble Alpes - Institut Fourier, Grenoble, Master 2 Research in Mathematics.
+* 2013-2019 Universidad Técnica Federico Santa María, Valparaíso, Engineer degree in Mathematical Engineering.
+* 2013-2019 Universidad Técnica Federico Santa María, Valparaíso, BSc in Mathematics.
 
 Work experience
 ======
@@ -26,15 +28,6 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
