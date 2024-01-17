@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Hodge structures through an étale motivic point of view"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/hodgeET
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2022-12
+venue: 'arXiv'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Rosas Soto, I., “Hodge structures through an étale motivic point of view”, <i>arXiv e-prints</i>, 2022. doi:10.48550/arXiv.2212.02128.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://arxiv.org/pdf/2212.02128.pdf)
