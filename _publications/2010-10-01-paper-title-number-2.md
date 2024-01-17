@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "Etale degree map and 0-cycles"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
