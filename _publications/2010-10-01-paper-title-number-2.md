@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Étale degree map and 0-cycles
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/EDM
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2023-05
+venue: 'arXiv'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Rosas Soto, I., “Étale degree map and 0-cycles”, <i>arXiv e-prints</i>, 2023. doi:10.48550/arXiv.2305.06444.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://arxiv.org/pdf/2305.06444.pdf)
