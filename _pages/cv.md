@@ -44,4 +44,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-* Currently signed in to 43 different slack teams
