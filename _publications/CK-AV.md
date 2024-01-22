@@ -3,7 +3,7 @@ title: "Chow-Künneth decomposition for étale motives"
 collection: publications
 permalink: /publication/CK-AV
 excerpt: 
-date:
+date: '2024-02-21'
 venue: 
 paperurl: 
 citation: 
