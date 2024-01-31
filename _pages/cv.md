@@ -11,8 +11,7 @@ redirect_from:
 * 2023-2024 ATER at Université de Bourgogne, Dijon.
 * 2020-2023 Université de Bourgogne, Dijon, PhD in Mathematics. 
 * 2019-2020 Université Grenoble Alpes - Institut Fourier, Grenoble, Master 2 Research in Mathematics.
-* 2013-2019 Universidad Técnica Federico Santa María, Valparaíso, Engineer degree in Mathematical Engineering.
-* 2013-2019 Universidad Técnica Federico Santa María, Valparaíso, BSc in Mathematics.
+* 2013-2019 Universidad Técnica Federico Santa María, Valparaíso, Engineer degree in Mathematical Engineering and Bsc in Mathematics.
 
 Theses in Mathematics
 ======
