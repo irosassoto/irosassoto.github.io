@@ -34,9 +34,9 @@ Theses in Mathematics
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* I. Rosas-Soto, "Chow-Künneth decomposition for étale motives."
+* I. Rosas-Soto, "Etale degree map and 0-cycles." 2023. 
+* I. Rosas-Soto, "Hodge structures through an étale motivic point of view." 2022.
   
 Talks
 ======
