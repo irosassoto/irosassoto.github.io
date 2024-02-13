@@ -38,6 +38,3 @@ Publications
 * I. Rosas-Soto, Etale degree map and 0-cycles. (2023). [arXiv version](https://arxiv.org/pdf/2305.06444.pdf)
 * I. Rosas-Soto, Hodge structures through an étale motivic point of view. (2022). [arXiv version](https://arxiv.org/pdf/2212.02128.pdf)
 
-Teaching
-======
-
