@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 
 ---
-
-Publications
 ======
 * I. Rosas-Soto, Chow-Künneth decomposition for étale motives. (Work in progress)
 * I. Rosas-Soto, Etale degree map and 0-cycles. (2023). [arXiv version](https://arxiv.org/pdf/2305.06444.pdf)
