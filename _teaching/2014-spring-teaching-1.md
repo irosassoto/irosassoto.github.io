@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Math2C"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/Math2C_2024
+venue: "Université de Bourgogne, IMB"
 date: 2014-01-01
-location: "City, Country"
+location: "Dijon, France"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Contrôle 1 Groupe MP2-MP
+* Contrôle 1 Groupe MI2-M
