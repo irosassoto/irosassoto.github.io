@@ -10,11 +10,7 @@ location: "Dijon, France"
 
 Suites, limites, dérivées, intégration.
 
-Heading 1
+Contrôles
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+*Contrôle 1 Groupe D
+*Contrôle 1 Groupe I
