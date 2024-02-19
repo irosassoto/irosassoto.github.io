@@ -12,5 +12,5 @@ Suites, limites, dérivées, intégration.
 
 Contrôles
 ======
-*Contrôle 1 Groupe D
-*Contrôle 1 Groupe I
+* Contrôle 1 Groupe D
+* Contrôle 1 Groupe I
