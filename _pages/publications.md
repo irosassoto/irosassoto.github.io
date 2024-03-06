@@ -11,7 +11,7 @@ author_profile: true
 
 Theses in Mathematics
 ======
-* PhD thesis: Chow-Künneth decomposition.
+* PhD thesis: Chow-Künneth decomposition. [(PDF version)](https://irosassoto.github.io/files/Thesis.pdf)
   * Advisors: [Frédéric Déglise](http://deglise.perso.math.cnrs.fr/) and [Jan Nagel](http://nagel49.perso.math.cnrs.fr/).
   * Thesis defense: december 2023.
 
