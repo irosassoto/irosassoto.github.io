@@ -12,5 +12,5 @@ Suites, limites, dérivées, intégration.
 
 Contrôles
 ======
-* [Contrôle 1 Groupe D](https://irosassoto.github.io/files/Cotrole1D.pdf)
-* [Contrôle 1 Groupe I](https://irosassoto.github.io/files/Cotrole1I.pdf)
+* [Contrôle 1 Groupe D corrigé](https://irosassoto.github.io/files/Controle1D.pdf)
+* [Contrôle 1 Groupe I corrigé](https://irosassoto.github.io/files/Controle1I.pdf)
