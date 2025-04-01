@@ -20,7 +20,12 @@ Theses in Mathematics
 * PhD thesis: Chow-Künneth decomposition. [(PDF version)](https://irosassoto.github.io/files/Thesis.pdf)
   * Advisors: [Frédéric Déglise](http://deglise.perso.math.cnrs.fr/) and [Jan Nagel](http://nagel49.perso.math.cnrs.fr/).
   * Thesis defense: december 2023.
-
 * Master 2 thesis: Introduction to motives.
   * Advisor: [Jan Nagel](http://nagel49.perso.math.cnrs.fr/).
   * Thesis defense: june 2020.
+* Engineering thesis: Fully convex optimal control problems of PDE's.
+  * Advisors: Christopher Hermosilla, Pedro Gajardo
+  * Date of defense: August 2019
+* Barchelor memoire: Algebraic curves and resolution of monomial singularities.
+  * Advisor: Anita Rojas-Rodríguez
+  * Date of defense: April 2019
